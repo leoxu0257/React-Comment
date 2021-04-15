@@ -8,9 +8,9 @@ const App=()=>{
     return (
         <div className="ui container comments">
         <ApprovalCard>
-            <div>
+            <div> 
                 <h4>Warning!</h4>
-                Are you sure?
+                Are you sure???
             </div>
         </ApprovalCard>
             
